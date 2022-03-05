@@ -1,11 +1,11 @@
 @font-face {
     font-family: 'poppins';
-    src: url('../../Fonts/Poppins/light/poppins-light.eot');
-    src: url('../../Fonts/Poppins/light/poppins-light.eot?#iefix') format('embedded-opentype'),
-         url('../../Fonts/Poppins/light/poppins-light.woff2') format('woff2'),
-         url('../../Fonts/Poppins/light/poppins-light.woff') format('woff'),
-         url('../../Fonts/Poppins/light/poppins-light.svg#poppinslight') format('svg');
-    font-weight: 300;
+    src: url('../../Fonts/Poppins/bold/poppins-bold.eot');
+    src: url('../../Fonts/Poppins/bold/poppins-bold.eot?#iefix') format('embedded-opentype'),
+         url('../../Fonts/Poppins/bold/poppins-bold.woff2') format('woff2'),
+         url('../../Fonts/Poppins/bold/poppins-bold.woff') format('woff'),
+         url('../../Fonts/Poppins/bold/poppins-bold.svg#poppinsmedium') format('svg');
+    font-weight: 700;
     font-style: normal;
     font-display: swap;
 }
@@ -33,12 +33,23 @@
 }
 @font-face {
     font-family: 'poppins';
-    src: url('../../Fonts/Poppins/thin/poppins-thin.eot');
-    src: url('../../Fonts/Poppins/thin/poppins-thin.eot?#iefix') format('embedded-opentype'),
-         url('../../Fonts/Poppins/thin/poppins-thin.woff2') format('woff2'),
-         url('../../Fonts/Poppins/thin/poppins-thin.woff') format('woff'),
-         url('../../Fonts/Poppins/thin/poppins-thin.svg#poppinsthin') format('svg');
-    font-weight: 100;
+    src: url('../../Fonts/Poppins/light/poppins-light.eot');
+    src: url('../../Fonts/Poppins/light/poppins-light.eot?#iefix') format('embedded-opentype'),
+         url('../../Fonts/Poppins/light/poppins-light.woff2') format('woff2'),
+         url('../../Fonts/Poppins/light/poppins-light.woff') format('woff'),
+         url('../../Fonts/Poppins/light/poppins-light.svg#poppinslight') format('svg');
+    font-weight: 300;
+    font-style: normal;
+    font-display: swap;
+}
+@font-face {
+    font-family: 'poppins';
+    src: url('../../Fonts/Poppins/extralight/poppins-extralight.eot');
+    src: url('../../Fonts/Poppins/extralight/poppins-extralight.eot?#iefix') format('embedded-opentype'),
+         url('../../Fonts/Poppins/extralight/poppins-extralight.woff2') format('woff2'),
+         url('../../Fonts/Poppins/extralight/poppins-extralight.woff') format('woff'),
+         url('../../Fonts/Poppins/extralight/poppins-extralight.svg#poppinsthin') format('svg');
+    font-weight: 200;
     font-style: normal;
     font-display: swap;
 }
